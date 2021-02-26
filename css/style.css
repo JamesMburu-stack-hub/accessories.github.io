@@ -1,0 +1,24 @@
+form {
+    border: 1px solid beige;
+    width: 500px;
+    height: 400px;
+    margin-left: 34%;
+    margin-top: 8%;
+}
+.txt {
+    color: #ffffff;
+    text-align: center;
+}
+.stinput {
+    margin-left: 4%;
+    width: 450px;
+}
+.fl {
+    float: left;
+    text-decoration: none;
+}
+.fr {
+    float: right;
+    text-decoration: none;
+
+}
